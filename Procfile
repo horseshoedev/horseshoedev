@@ -1,1 +1,1 @@
-web: gunicorn horseshoedev.wsgi:application
+web: gunicorn app.py.wsgi:application

@@ -1,6 +1,6 @@
-from flask import Flask
+from flask import Flask, render_template
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/', methods=["GET"])
 def index():
-    return 'Index Page'
+     return render_template("index.html", page_title="Portfolio for Horseshoedev")
