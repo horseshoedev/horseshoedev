@@ -1,3 +1,3 @@
-### Howdy! 
+### Howdy!
 
-### [My Portfolio](www.horseshoedev.xyz)
+### [My Portfolio](https://www.horseshoedev.xyz)
