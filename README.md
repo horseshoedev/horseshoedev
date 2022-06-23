@@ -1,7 +1,7 @@
 ### horseshoedev :feelsgood:
 
-I'm a `Web Developer` and occasional `Database Designer` who enjoys summoning **epic-quality** websites and applications. I'm a college
-student and I also love guitar,farming and Dungeons and Dragons.
+`Web Developer` 
+`Database Designer` 
 
 ### 🌱 My latest projects
 
